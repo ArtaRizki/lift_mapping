@@ -1,0 +1,37 @@
+[
+  {
+    "type": "instruction_primary",
+    "content": "Answer the questions based on the image presented",
+    "is_html_content": false,
+    "order": 1,
+    "meta": ""
+  },
+  {
+    "type": "image_content",
+    "content": "",
+    "is_html_content": false,
+    "order": 2,
+    "meta": ""
+  },
+  {
+    "type": "text_statement",
+    "content": "Do the students clean their classroom?",
+    "is_html_content": false,
+    "order": 3,
+    "meta": ""
+  },
+  {
+    "type": "instruction_secondary",
+    "content": "Choose the correct answer.",
+    "is_html_content": false,
+    "order": 4,
+    "meta": ""
+  },
+  {
+    "type": "answer_options",
+    "content": "yes, they do|||no, they don’t",
+    "is_html_content": false,
+    "order": 5,
+    "meta": ""
+  }
+]

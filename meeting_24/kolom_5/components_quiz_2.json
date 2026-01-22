@@ -1,0 +1,23 @@
+[
+  {
+    "type": "instruction_primary",
+    "content": "Read and choose which one is correct",
+    "is_html_content": false,
+    "order": 1,
+    "meta": ""
+  },
+  {
+    "type": "instruction_secondary",
+    "content": "Choose the correct answer.",
+    "is_html_content": false,
+    "order": 2,
+    "meta": ""
+  },
+  {
+    "type": "answer_options",
+    "content": "we doesn’t go to the shop|||we don’t go to the shop",
+    "is_html_content": false,
+    "order": 3,
+    "meta": ""
+  }
+]

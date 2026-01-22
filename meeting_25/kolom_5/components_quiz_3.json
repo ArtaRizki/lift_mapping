@@ -1,0 +1,30 @@
+[
+  {
+    "type": "instruction_primary",
+    "content": "Fill in the gap with the correct word (do/does)",
+    "is_html_content": false,
+    "order": 1,
+    "meta": ""
+  },
+  {
+    "type": "image_content",
+    "content": "",
+    "is_html_content": false,
+    "order": 2,
+    "meta": ""
+  },
+  {
+    "type": "instruction_secondary",
+    "content": "Choose the correct answer.",
+    "is_html_content": false,
+    "order": 3,
+    "meta": ""
+  },
+  {
+    "type": "answer_options",
+    "content": "She|||You",
+    "is_html_content": false,
+    "order": 4,
+    "meta": ""
+  }
+]
