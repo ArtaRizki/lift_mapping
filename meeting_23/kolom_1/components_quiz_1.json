@@ -15,14 +15,14 @@
   },
   {
     "type": "sound_normal",
-    "content": "",
+    "content": "./eat.mp3",
     "is_html_content": false,
     "order": 3,
     "meta": ""
   },
   {
     "type": "sound_slow",
-    "content": "",
+    "content": "./eat.mp3",
     "is_html_content": false,
     "order": 4,
     "meta": ""
