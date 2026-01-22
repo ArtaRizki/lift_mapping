@@ -8,7 +8,7 @@
   },
   {
     "type": "image_content",
-    "content": "",
+    "content": "./gambar_soal_quiz_6.png",
     "is_html_content": false,
     "order": 2,
     "meta": ""
@@ -22,7 +22,7 @@
   },
   {
     "type": "answer_options",
-    "content": "eat|||watch|||hear",
+    "content": "work|||watch|||sleep",
     "is_html_content": false,
     "order": 4,
     "meta": ""

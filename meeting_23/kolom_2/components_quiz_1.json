@@ -8,7 +8,7 @@
   },
   {
     "type": "image_content",
-    "content": "",
+    "content": "./gambar_soal_quiz_1.png",
     "is_html_content": false,
     "order": 2,
     "meta": ""
@@ -22,7 +22,7 @@
   },
   {
     "type": "answer_options",
-    "content": "go|||walk|||come",
+    "content": "eat|||walk|||sleep",
     "is_html_content": false,
     "order": 4,
     "meta": ""
