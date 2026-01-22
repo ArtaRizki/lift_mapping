@@ -1,0 +1,49 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Choose the word you hear",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "avatar",
+        "content": "",
+        "image": "./gambar_soal_quiz_6.png",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "sound_normal",
+        "content": "",
+        "image": "./sound_normal.png",
+        "audio": "./uncle.mp3",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "sound_slow",
+        "content": "",
+        "image": "./sound_slow.png",
+        "audio": "./uncle.mp3",
+        "is_html_content": false,
+        "order": 4,
+        "meta": ""
+    },
+    {
+        "type": "instruction_secondary",
+        "content": "Choose the correct answer.",
+        "is_html_content": false,
+        "order": 5,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "Uncle|||Grandmother|||Cousin",
+        "is_html_content": false,
+        "order": 6,
+        "meta": ""
+    }
+]

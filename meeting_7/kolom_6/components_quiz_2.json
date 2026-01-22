@@ -1,0 +1,30 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Fill in the blanks with the correct form of to be (am, is, are)",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "question_short_text",
+        "content": "_________ she a friendly teacher?",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "instruction_secondary",
+        "content": "Choose the correct answer.",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "am|||is|||are",
+        "is_html_content": false,
+        "order": 4,
+        "meta": ""
+    }
+]

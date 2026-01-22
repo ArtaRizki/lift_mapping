@@ -1,0 +1,31 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Match each image with the correct answer",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "image_single",
+        "content": "",
+        "is_html_content": false,
+        "image": "./gambar_soal_quiz_5.png",
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "instruction_secondary",
+        "content": "Choose the correct answer.",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "It's quarter past twelve|||it's three o'clock|||it's half past twelve",
+        "is_html_content": false,
+        "order": 4,
+        "meta": ""
+    }
+]

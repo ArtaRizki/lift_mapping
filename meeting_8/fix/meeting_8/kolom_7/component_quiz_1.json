@@ -1,0 +1,58 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "For each question, choose the correct answer",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "reading_passage",
+        "content": "Red Pandas\n\nRed pandas live in Nepal, Northern Myanmar, India and Bhutan, as (19) _________ as in China. They (20) _________ a lot of their time in trees and are very (21) _________ at climbing. They are more active during the night than the day, and they usually (22) _________ for food in the evening and early in the morning. Their favourite food is bamboo. In fact, a female red panda can eat 20,000 bamboo leaves in a day! But they also eat fruit, grass, eggs, insects and (23) _________ small birds and animals. Scientists believe that the number of red pandas in the world is (24) _________ because the forests where they live are getting smaller. But much is being done in countries around the world to help this amazing animal.",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "soon|||much|||well",
+        "is_html_content": false,
+        "order": 3,
+        "meta": "19."
+    },
+    {
+        "type": "answer_options",
+        "content": "spend|||live|||take",
+        "is_html_content": false,
+        "order": 4,
+        "meta": "20."
+    },
+    {
+        "type": "answer_options",
+        "content": "nice|||great|||good",
+        "is_html_content": false,
+        "order": 5,
+        "meta": "21."
+    },
+    {
+        "type": "answer_options",
+        "content": "look|||see|||find",
+        "is_html_content": false,
+        "order": 6,
+        "meta": "22."
+    },
+    {
+        "type": "answer_options",
+        "content": "even|||queit|||still",
+        "is_html_content": false,
+        "order": 7,
+        "meta": "23."
+    },
+    {
+        "type": "answer_options",
+        "content": "little|||low|||short",
+        "is_html_content": false,
+        "order": 8,
+        "meta": "24."
+    }
+]

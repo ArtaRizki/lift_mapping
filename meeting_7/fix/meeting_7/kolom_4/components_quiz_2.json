@@ -1,0 +1,24 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Look at the jumbled letters and arrange them to form the correct adjective",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "line_below_the_answer",
+        "content": "",
+        "is_html_content": false,
+        "image": "./line_below_the_answer.png",
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "i|||u|||q|||e|||t",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    }
+]

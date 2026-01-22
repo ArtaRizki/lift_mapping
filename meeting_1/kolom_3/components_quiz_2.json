@@ -1,0 +1,31 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Match the image with the correct answer",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "image_single",
+        "content": "",
+        "image": "./gambar_soal_quiz_2.png",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "instruction_secondary",
+        "content": "Choose the correct answer.",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "Good morning|||Good afternoon|||Good evening",
+        "is_html_content": false,
+        "order": 4,
+        "meta": ""
+    }
+]

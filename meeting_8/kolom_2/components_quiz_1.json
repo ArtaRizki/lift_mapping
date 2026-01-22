@@ -1,0 +1,16 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Read the text and fill the gap with personality adjectives",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "question_short_text",
+        "content": "my brother is _________, he never does his homework",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    }
+]

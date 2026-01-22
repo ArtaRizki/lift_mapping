@@ -1,0 +1,58 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Listen to the audio and choose the correct image",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "sound_normal",
+        "content": "",
+        "image": "./sound_normal.png",
+        "audio": "./good_afternoon.mp3",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "sound_slow",
+        "content": "",
+        "image": "./sound_slow.png",
+        "audio": "./good_afternoon.mp3",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "instruction_secondary",
+        "content": "Choose the right picture.",
+        "is_html_content": false,
+        "order": 4,
+        "meta": ""
+    },
+    {
+        "type": "answer_option",
+        "content": "Good morning",
+        "image": "./good_morning.png",
+        "is_html_content": false,
+        "order": 5,
+        "meta": ""
+    },
+    {
+        "type": "answer_option",
+        "content": "Good afternoon",
+        "image": "./good_afternoon.png",
+        "is_html_content": false,
+        "order": 6,
+        "meta": ""
+    },
+    {
+        "type": "answer_option",
+        "content": "Good evening",
+        "image": "./good_evening.png",
+        "is_html_content": false,
+        "order": 7,
+        "meta": ""
+    }
+]

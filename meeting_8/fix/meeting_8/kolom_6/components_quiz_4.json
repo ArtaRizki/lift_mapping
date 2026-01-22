@@ -1,0 +1,30 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Read the riddle and guess the personality",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "question_short_text",
+        "content": "I only think about myself. I don't like to share. What am I?",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "instruction_secondary",
+        "content": "Choose the correct answer.",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "Funny|||Selfish|||Friendly",
+        "is_html_content": false,
+        "order": 4,
+        "meta": ""
+    }
+]

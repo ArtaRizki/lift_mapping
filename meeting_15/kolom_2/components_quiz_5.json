@@ -1,0 +1,30 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Read the sentence and choose the correct answer",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "question_short_text",
+        "content": "She is my father's wife",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "instruction_secondary",
+        "content": "Choose the correct answer.",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "Aunt|||Mother|||Sister",
+        "is_html_content": false,
+        "order": 4,
+        "meta": ""
+    }
+]

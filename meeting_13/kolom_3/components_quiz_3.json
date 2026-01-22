@@ -1,0 +1,23 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Tap the word or part that makes the sentence wrong",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "instruction_primary",
+        "content": "Choose the wrong sentence.",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "How|||are|||old|||you?",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    }
+]

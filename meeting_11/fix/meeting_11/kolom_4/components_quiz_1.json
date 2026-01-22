@@ -1,0 +1,16 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Tap the correct sentence",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "It's half past six|||It's six half past|||It's half six past",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    }
+]

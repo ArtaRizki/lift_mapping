@@ -1,0 +1,58 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Listen to the audio and choose the correct image",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "sound_normal",
+        "content": "",
+        "image": "./sound_normal.png",
+        "audio": "./hello.mp3",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "sound_slow",
+        "content": "",
+        "image": "./sound_slow.png",
+        "audio": "./hello.mp3",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "instruction_secondary",
+        "content": "Choose the right picture.",
+        "is_html_content": false,
+        "order": 4,
+        "meta": ""
+    },
+    {
+        "type": "answer_option",
+        "content": "Good bye",
+        "image": "./good_bye.png",
+        "is_html_content": false,
+        "order": 5,
+        "meta": ""
+    },
+    {
+        "type": "answer_option",
+        "content": "Hello",
+        "image": "./hello.png",
+        "is_html_content": false,
+        "order": 6,
+        "meta": ""
+    },
+    {
+        "type": "answer_option",
+        "content": "I'm fine, thank you",
+        "image": "./im_fine_thank_you.png",
+        "is_html_content": false,
+        "order": 7,
+        "meta": ""
+    }
+]

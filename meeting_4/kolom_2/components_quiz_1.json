@@ -1,0 +1,30 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Choose the nationalities with the same suffix",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "question_short_text",
+        "content": "-(i)an: _________",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "instruction_secondary",
+        "content": "Choose the correct answer.",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "Indonesian|||Japanese|||British",
+        "is_html_content": false,
+        "order": 4,
+        "meta": ""
+    }
+]

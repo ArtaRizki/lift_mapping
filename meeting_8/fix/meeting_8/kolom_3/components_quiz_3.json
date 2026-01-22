@@ -1,0 +1,16 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Arrange the words to make a correct sentence by dragging them",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "brother|||my|||is|||friendly|||not",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    }
+]

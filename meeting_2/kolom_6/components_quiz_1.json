@@ -1,0 +1,56 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Read the text and write the correct answer",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "instruction_secondary",
+        "content": "Fill in the blanks with the correct words.",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "dialog_1",
+        "content": "",
+        "is_html_content": false,
+        "image": "./dialog_left_1_quiz_1.png",
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "dialog_2_input",
+        "content": "",
+        "is_html_content": false,
+        "image": "./dialog_right_1_quiz_1.png",
+        "order": 4,
+        "meta": ""
+    },
+    {
+        "type": "dialog_3_input",
+        "content": "",
+        "is_html_content": false,
+        "image": "./dialog_left_2_quiz_1.png",
+        "order": 5,
+        "meta": ""
+    },
+    {
+        "type": "dialog_4",
+        "content": "",
+        "is_html_content": false,
+        "image": "./dialog_right_2_quiz_1.png",
+        "order": 6,
+        "meta": ""
+    },
+    {
+        "type": "dialog_5_input",
+        "content": "",
+        "is_html_content": false,
+        "image": "./dialog_left_3_quiz_1.png",
+        "order": 7,
+        "meta": ""
+    }
+]

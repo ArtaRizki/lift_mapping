@@ -1,0 +1,40 @@
+[
+    {
+        "type": "instruction_image",
+        "content": "",
+        "is_html_content": false,
+        "image": "./instruction_image.png",
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "image_single",
+        "content": "",
+        "is_html_content": false,
+        "image": "./gambar_soal_quiz_3.png",
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "instruction_secondary",
+        "content": "Choose the correct answer.",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "You can buy food somewhere else in the park.|||Please don't eat while  you are playing sport there.|||This is a place for eating and you can't play football here.",
+        "is_html_content": false,
+        "order": 4,
+        "meta": ""
+    },
+    {
+        "type": "background_long_text_input",
+        "content": "",
+        "image": "./background_long_text_input.png",
+        "is_html_content": false,
+        "order": 5,
+        "meta": ""
+    }
+]

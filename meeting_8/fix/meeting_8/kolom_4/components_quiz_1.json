@@ -1,0 +1,28 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Fill in the blanks by matching the options (be, personality adj)",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "question_dialogue_cloze",
+        "content": "A: Is Rina _________?<br>B: Yes, she is. She always smiles and talks to everyone.<br>A: And Dito?<br>B: Oh, he ___ funny. He tells jokes and makes us laugh.<br>A: How about Fariz and Rasyid. Are they _________?<br>B: No, they are not talkative, they ____ very quiet and _____.<br>A: Are you sure?<br>B: Yes, they never do their homework.",
+        "is_html_content": true,
+        "order": 2,
+        "meta": {
+            "blanks_count": 5,
+            "answer_keys": ["friendly", "is", "talkative", "are", "lazy"]
+        }
+    },
+    {
+        "type": "answer_options",
+        "content": "Fill in the blanks with the correct words.",
+        "is_html_content": false,
+        "order": 3,
+        "meta": {
+            "options": ["talkative", "lazy", "is", "friendly", "are"]
+        }
+    }
+]

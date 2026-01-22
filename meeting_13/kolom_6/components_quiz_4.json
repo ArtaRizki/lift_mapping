@@ -1,0 +1,31 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Read the situation. Choose and say the correct expression",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "avatar",
+        "content": "",
+        "image": "./gambar_soal_quiz_4.png",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "instruction_secondary",
+        "content": "Choose the correct answer.",
+        "is_html_content": false,
+        "order": 5,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "My number is 0812, I have a phone|||What's your phone number?",
+        "is_html_content": false,
+        "order": 6,
+        "meta": ""
+    }
+]

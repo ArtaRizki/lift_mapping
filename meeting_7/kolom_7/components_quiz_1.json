@@ -1,0 +1,31 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Describe your family in a minimum of 25 words",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "question_short_text_bold",
+        "content": "Example:",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "question_short_text",
+        "content": "I live with my mother, father, and one brother. \nMy mother is very friendly and funny. \nMy father is also talkative. \nMy brother is very talkative at home \nbut very quiet at school.",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "background_long_text_input",
+        "content": "",
+        "is_html_content": false,
+        "image": "./background_long_text_input.png",
+        "order": 4,
+        "meta": ""
+    }
+]

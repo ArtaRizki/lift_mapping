@@ -1,0 +1,35 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Listen and type the answer",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "sound_normal",
+        "content": "",
+        "image": "./sound_normal.png",
+        "audio": "./they_are_from_the_usa_they_are.mp3",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "sound_slow",
+        "content": "",
+        "image": "./sound_slow.png",
+        "audio": "./they_are_from_the_usa_they_are.mp3",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "background_long_text_input",
+        "content": "",
+        "is_html_content": false,
+        "image": "./background_long_text_input.png",
+        "order": 4,
+        "meta": ""
+    }
+]

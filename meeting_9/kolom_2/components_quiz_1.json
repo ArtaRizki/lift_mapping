@@ -1,0 +1,73 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "For each questions choose the correct answer",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "hyperlink_image",
+        "content": "Click here to read the text",
+        "is_html_content": false,
+        "image": "./hyperlink_image.png",
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "answer_labels",
+        "content": "Melissa!|||Sharon|||Latifa",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "A|||B|||C",
+        "is_html_content": false,
+        "order": 4,
+        "meta": "Which person has made new friends because of her hobby?"
+    },
+    {
+        "type": "answer_options",
+        "content": "A|||B|||C",
+        "is_html_content": false,
+        "order": 5,
+        "meta": "Which person does her hobby near her home?"
+    },
+    {
+        "type": "answer_options",
+        "content": "A|||B|||C",
+        "is_html_content": false,
+        "order": 6,
+        "meta": "Which person says she is getting better at her hobby?"
+    },
+    {
+        "type": "answer_options",
+        "content": "A|||B|||C",
+        "is_html_content": false,
+        "order": 7,
+        "meta": "Which person does her hobby with a family member?"
+    },
+    {
+        "type": "answer_options",
+        "content": "A|||B|||C",
+        "is_html_content": false,
+        "order": 8,
+        "meta": "Which person wants to do her hobby more often?"
+    },
+    {
+        "type": "answer_options",
+        "content": "A|||B|||C",
+        "is_html_content": false,
+        "order": 9,
+        "meta": "Which person needs to buy something for her hobby?"
+    },
+    {
+        "type": "answer_options",
+        "content": "A|||B|||C",
+        "is_html_content": false,
+        "order": 10,
+        "meta": "Which person says her hobby was more expensive than she thought?"
+    }
+]

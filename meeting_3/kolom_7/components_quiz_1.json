@@ -1,0 +1,31 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Write a paragraph about your idol",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "question_short_text_bold",
+        "content": "Example:",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "question_short_text",
+        "content": "My idol is Lalisa Manoban. \nShe is a member of Blackpink. \nShe is from Thailand. She is Thai. \nShe is 28 years old. \nShe is very beautiful and cute.",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "background_long_text_input",
+        "content": "",
+        "is_html_content": false,
+        "image": "./background_long_text_input.png",
+        "order": 4,
+        "meta": ""
+    }
+]

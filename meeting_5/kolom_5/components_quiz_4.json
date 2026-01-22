@@ -1,0 +1,48 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Listen and choose if it's true or false",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "sound_normal",
+        "content": "",
+        "image": "./sound_normal.png",
+        "audio": "./your_cousin_is_your_brothers_child.mp3",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "sound_slow",
+        "content": "",
+        "image": "./sound_slow.png",
+        "audio": "./your_cousin_is_your_brothers_child.mp3",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "question_short_text",
+        "content": "Your cousin is your brother's child",
+        "is_html_content": false,
+        "order": 4,
+        "meta": ""
+    },
+    {
+        "type": "instruction_secondary",
+        "content": "Choose the correct answer.",
+        "is_html_content": false,
+        "order": 5,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "True|||False",
+        "is_html_content": false,
+        "order": 6,
+        "meta": ""
+    }
+]

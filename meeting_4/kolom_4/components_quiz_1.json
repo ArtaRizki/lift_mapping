@@ -1,0 +1,30 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Read and choose the correct answer",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "question_short_text",
+        "content": "My idol is BTS. \nThey are from South Korea. \nThey are _____",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "instruction_secondary",
+        "content": "Choose the correct answer.",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "Chinese|||Korean|||Indonesian",
+        "is_html_content": false,
+        "order": 4,
+        "meta": ""
+    }
+]

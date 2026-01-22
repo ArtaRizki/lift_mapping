@@ -1,0 +1,48 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Read the expression and choose the correct image",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "image_single",
+        "content": "",
+        "image": "./gambar_soal_quiz_4.png",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "instruction_secondary",
+        "content": "Choose the right picture.",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "answer_option",
+        "content": "Good bye",
+        "image": "./good_bye.png",
+        "is_html_content": false,
+        "order": 4,
+        "meta": ""
+    },
+    {
+        "type": "answer_option",
+        "content": "Hello",
+        "image": "./hello.png",
+        "is_html_content": false,
+        "order": 5,
+        "meta": ""
+    },
+    {
+        "type": "answer_option",
+        "content": "I'm fine, thank you",
+        "image": "./im_fine_thank_you.png",
+        "is_html_content": false,
+        "order": 6,
+        "meta": ""
+    }
+]

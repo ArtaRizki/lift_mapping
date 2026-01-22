@@ -1,0 +1,24 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Look at the picture and fill in the blank with the correct form of “to be” (is / are)",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "image_single",
+        "content": "",
+        "image": "./gambar_soal_quiz_5.png",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "question_short_text",
+        "content": "You ____ not my father",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "For each questions choose the correct answer",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "hyperlink_image",
+        "content": "Click here to read the text",
+        "is_html_content": false,
+        "image": "./hyperlink_image.png",
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "answer_labels",
+        "content": "Eureka!|||Museum of Museums|||Cinema Museum",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "A|||B|||C",
+        "is_html_content": false,
+        "order": 4,
+        "meta": "Which museum has an exhibition of clothes?"
+    },
+    {
+        "type": "answer_options",
+        "content": "A|||B|||C",
+        "is_html_content": false,
+        "order": 5,
+        "meta": "Which museum is full of things which visitors can touch?"
+    },
+    {
+        "type": "answer_options",
+        "content": "A|||B|||C",
+        "is_html_content": false,
+        "order": 6,
+        "meta": "Which museum is a good place to learn about how people travelled in the past?"
+    },
+    {
+        "type": "answer_options",
+        "content": "A|||B|||C",
+        "is_html_content": false,
+        "order": 7,
+        "meta": "Which museum can you visit again for free after you pay once?"
+    },
+    {
+        "type": "answer_options",
+        "content": "A|||B|||C",
+        "is_html_content": false,
+        "order": 8,
+        "meta": "Which museum do you need to contact before you visit?"
+    },
+    {
+        "type": "answer_options",
+        "content": "A|||B|||C",
+        "is_html_content": false,
+        "order": 9,
+        "meta": "Which museum shows things that were borrowed from other places?"
+    },
+    {
+        "type": "answer_options",
+        "content": "A|||B|||C",
+        "is_html_content": false,
+        "order": 10,
+        "meta": "Which museum has some furniture which wasn't needed any more?"
+    }
+]

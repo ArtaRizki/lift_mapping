@@ -1,0 +1,31 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Write an online profile of yourself to be posted on an international community website a minimum of 25 words",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "question_short_text_bold",
+        "content": "Sample Online Profile",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "question_short_text",
+        "content": "Hi everyone! \nMy name is Rina, and I'm from Indonesia. \nI'm 15 years old and I'm a student. I love \nlearning English and meeting new friends \nfrom other countries.",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "background_long_text_input",
+        "content": "",
+        "is_html_content": false,
+        "image": "./background_long_text_input.png",
+        "order": 4,
+        "meta": ""
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Read the text and choose the correct answer(dragging)",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "dialog_1",
+        "content": "",
+        "is_html_content": false,
+        "image": "./dialog_left_1_quiz_1.png",
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "dialog_2_input",
+        "content": "",
+        "is_html_content": false,
+        "image": "./dialog_right_1_quiz_1.png",
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "dialog_3",
+        "content": "",
+        "is_html_content": false,
+        "image": "./dialog_left_2_quiz_1.png",
+        "order": 4,
+        "meta": ""
+    },
+    {
+        "type": "dialog_4_input",
+        "content": "",
+        "is_html_content": false,
+        "image": "./dialog_right_2_quiz_1.png",
+        "order": 5,
+        "meta": ""
+    },
+    {
+        "type": "instruction_secondary",
+        "content": "Dragging the correct words.",
+        "is_html_content": false,
+        "order": 6,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "Let's meet|||at ten thirty|||see you",
+        "is_html_content": false,
+        "order": 7,
+        "meta": ""
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "type": "instruction_image",
+        "content": "",
+        "is_html_content": false,
+        "image": "./instruction_image.png",
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "image_single",
+        "content": "",
+        "is_html_content": false,
+        "image": "./gambar_soal_quiz_6.png",
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "instruction_secondary",
+        "content": "Choose the correct answer.",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "Pedro's Pizza Bar isn't open at weekends.|||The third time you visit, you get a free pizza.|||Three pizzas cost the same as two.",
+        "is_html_content": false,
+        "order": 4,
+        "meta": ""
+    },
+    {
+        "type": "background_long_text_input",
+        "content": "",
+        "image": "./background_long_text_input.png",
+        "is_html_content": false,
+        "order": 5,
+        "meta": ""
+    }
+]

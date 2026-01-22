@@ -1,0 +1,58 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "For each question, choose the correct answer",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "reading_passage",
+        "content": "### Cello player wins music competition\n\nA 17-year-old musician has won the Young Musician of the Year Prize. Alex Guo was competing (19) _________ her brother and four other musicians under the (20) _________ of 21 to win the prize. The winner was (21) _________ after the young musicians each played on stage with a band. When she (22) _________ that she was the winner, she was so excited. 'I just couldn't (23) _________ it,' she said. 'Music has always been a (24) _________ , but now I want it to be my job, too.'",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "over|||against|||after",
+        "is_html_content": false,
+        "order": 3,
+        "meta": "19."
+    },
+    {
+        "type": "answer_options",
+        "content": "age|||years|||time",
+        "is_html_content": false,
+        "order": 4,
+        "meta": "20."
+    },
+    {
+        "type": "answer_options",
+        "content": "taken|||found|||chosen",
+        "is_html_content": false,
+        "order": 5,
+        "meta": "21."
+    },
+    {
+        "type": "answer_options",
+        "content": "heard|||listened|||agreed",
+        "is_html_content": false,
+        "order": 6,
+        "meta": "22."
+    },
+    {
+        "type": "answer_options",
+        "content": "guess|||believe|||thank",
+        "is_html_content": false,
+        "order": 7,
+        "meta": "23."
+    },
+    {
+        "type": "answer_options",
+        "content": "hobby|||fun|||game",
+        "is_html_content": false,
+        "order": 8,
+        "meta": "24."
+    }
+]

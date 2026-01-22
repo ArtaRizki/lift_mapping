@@ -1,0 +1,38 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Choose the correct answer to the correct category",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "image_single",
+        "content": "",
+        "image": "./gambar_soal_quiz_3.png",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "question_short_text",
+        "content": "Lazy",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "instruction_secondary",
+        "content": "Choose the correct answer.",
+        "is_html_content": false,
+        "order": 4,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "Positive adjective|||Negative adjective|||Neutral adjective",
+        "is_html_content": false,
+        "order": 5,
+        "meta": ""
+    }
+]

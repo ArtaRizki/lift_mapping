@@ -1,0 +1,38 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Arrange the given words",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "question_short_text",
+        "content": "are / my / they / not / cousins",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "line_below_the_answer",
+        "content": "",
+        "is_html_content": false,
+        "image": "./line_below_the_answer.png",
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "instruction_secondary",
+        "content": "Arrange the correct words.",
+        "is_html_content": false,
+        "order": 4,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "are|||my|||they|||not|cousins",
+        "is_html_content": false,
+        "order": 5,
+        "meta": ""
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Listen to the audio and choose the one you hear",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "sound_normal",
+        "content": "",
+        "image": "./sound_normal.png",
+        "audio": "./how_are_you.mp3",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "sound_slow",
+        "content": "",
+        "image": "./sound_slow.png",
+        "audio": "./how_are_you.mp3",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "instruction_secondary",
+        "content": "Choose the correct answer.",
+        "is_html_content": false,
+        "order": 4,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "I'm good|||How's life?|||How are you?",
+        "is_html_content": false,
+        "order": 5,
+        "meta": ""
+    }
+]
