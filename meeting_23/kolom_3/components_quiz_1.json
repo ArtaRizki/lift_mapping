@@ -7,8 +7,8 @@
     "meta": ""
   },
   {
-    "type": "image_content",
-    "content": "",
+    "type": "question_short_text",
+    "content": "Sleep is closing your eyes and rest",
     "is_html_content": false,
     "order": 2,
     "meta": ""

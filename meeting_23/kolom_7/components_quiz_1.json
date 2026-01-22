@@ -1,0 +1,31 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Tell about your daily routine in minimum 25 words",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "question_short_text_bold",
+        "content": "Sample:",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "question_short_text",
+        "content": "I wake up at six every morning, take a shower, eat breakfast, and walk to school. After study, I listen to music and do my homework.",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "background_long_text_input",
+        "content": "",
+        "image": "./background_long_text_input.png",
+        "is_html_content": false,
+        "order": 4,
+        "meta": ""
+    }
+]

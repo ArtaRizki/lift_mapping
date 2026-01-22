@@ -7,8 +7,8 @@
     "meta": ""
   },
   {
-    "type": "image_content",
-    "content": "",
+    "type": "question_short_text",
+    "content": "Watch is when you hear to music with your ears",
     "is_html_content": false,
     "order": 2,
     "meta": ""
