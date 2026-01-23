@@ -7,8 +7,8 @@
     "meta": ""
   },
   {
-    "type": "image_content",
-    "content": "",
+    "type": "question_short_text",
+    "content": "Do ________ like to dance?",
     "is_html_content": false,
     "order": 2,
     "meta": ""

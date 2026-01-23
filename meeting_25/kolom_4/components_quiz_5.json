@@ -1,0 +1,24 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Guess the word from the riddle",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "question_short_text",
+        "content": "I mix and cook the food. I make meals for everyone What do I do?",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "line_below_the_answer",
+        "content": "",
+        "is_html_content": false,
+        "image": "./line_below_the_answer.png",
+        "order": 3,
+        "meta": ""
+    }
+]

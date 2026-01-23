@@ -1,0 +1,31 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Tell about what you do in your free time. Use at least 25 words.",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "question_short_text_bold",
+        "content": "Sample:",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "question_short_text",
+        "content": "In my free time, I like to play football with my friends. I also watch and make videos on TikTok, sing songs, and sometimes dance for fun.",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "background_long_text_input",
+        "content": "",
+        "image": "./background_long_text_input.png",
+        "is_html_content": false,
+        "order": 4,
+        "meta": ""
+    }
+]

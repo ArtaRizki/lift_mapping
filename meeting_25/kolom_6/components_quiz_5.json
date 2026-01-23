@@ -1,7 +1,7 @@
 [
   {
     "type": "instruction_primary",
-    "content": "Listen and repeat the word",
+    "content": "Listen and repeat the sentence from the audio",
     "is_html_content": false,
     "order": 1,
     "meta": ""
@@ -9,7 +9,7 @@
   {
     "type": "avatar",
     "content": "",
-    "image": "./gambar_soal_quiz_6.png",
+    "image": "./gambar_soal_quiz_5.png",
     "is_html_content": false,
     "order": 2,
     "meta": ""
@@ -17,7 +17,7 @@
   {
     "type": "sound_normal",
     "content": "",
-    "audio": "./listen.mp3",
+    "audio": "./I_dont_sing_in_the_school_choir.mp3",
     "is_html_content": false,
     "order": 3,
     "meta": ""
@@ -25,7 +25,7 @@
   {
     "type": "sound_slow",
     "content": "",
-    "audio": "./listen.mp3",
+    "audio": "./I_dont_sing_in_the_school_choir.mp3",
     "is_html_content": false,
     "order": 4,
     "meta": ""
