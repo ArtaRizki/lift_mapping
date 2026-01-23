@@ -7,7 +7,7 @@
     "meta": ""
   },
   {
-    "type": "image_content",
+    "type": "image_single",
     "content": "",
     "image":"./gambar_soal_quiz_4.png",
     "is_html_content": false,

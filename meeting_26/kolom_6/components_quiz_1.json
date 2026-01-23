@@ -1,35 +1,14 @@
 [
   {
     "type": "instruction_primary",
-    "content": "Answer the questions based on the image presented",
+    "content": "Read and choose which one is correct",
     "is_html_content": false,
     "order": 1,
     "meta": ""
   },
   {
-    "type": "image_content",
-    "content": "",
-    "is_html_content": false,
-    "order": 2,
-    "meta": ""
-  },
-  {
-    "type": "text_statement",
-    "content": "do we run in the park?",
-    "is_html_content": false,
-    "order": 3,
-    "meta": ""
-  },
-  {
-    "type": "instruction_secondary",
-    "content": "Choose the correct answer.",
-    "is_html_content": false,
-    "order": 4,
-    "meta": ""
-  },
-  {
     "type": "answer_options",
-    "content": "yes, we do|||no, we don’t",
+    "content": "Do they like pizza?|||Does they like pizza?",
     "is_html_content": false,
     "order": 5,
     "meta": ""

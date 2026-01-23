@@ -1,0 +1,16 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "Arrange the words given",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "in|||sing|||he|||does|||choir?|||the",
+        "is_html_content": false,
+        "order": 2,
+        "meta": ""
+    }
+]

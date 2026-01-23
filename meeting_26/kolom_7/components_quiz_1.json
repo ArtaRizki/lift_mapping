@@ -1,0 +1,52 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "For each questions choose the correct answer",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "hyperlink_image",
+        "content": "Click here to read the text",
+        "is_html_content": false,
+        "image": "./hyperlink_image.png",
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "A. She loves using her new camera|||B. She likes taking photos of her family|||C. She enjoys trying to take better pictures",
+        "is_html_content": false,
+        "order": 3,
+        "meta": "14. Why does Mrs Howells enjoy photography?"
+    },
+    {
+        "type": "answer_options",
+        "content": "A. Take pictures with your friends|||B. Don't take photos if it is dark|||C. Take photos early in the morning",
+        "is_html_content": false,
+        "order": 4,
+        "meta": "15. What advice does Mrs Howells give?"
+    },
+    {
+        "type": "answer_options",
+        "content": "A. From books|||B. From her mistakes|||C. From videos on the web",
+        "is_html_content": false,
+        "order": 5,
+        "meta": "16. How did Mrs Howells learn about photography?"
+    },
+    {
+        "type": "answer_options",
+        "content": "A. Everybody should learn photography|||B. Photography is a great hobby for everyone|||C. Everybody can take good photos if they want to",
+        "is_html_content": false,
+        "order": 6,
+        "meta": "17. Mrs Howells believes that"
+    },
+    {
+        "type": "answer_options",
+        "content": "A. To ask pupils what they like photographing|||B. To tell pupils about a photography course|||C. To answer pupils' questions about photography",
+        "is_html_content": false,
+        "order": 7,
+        "meta": "18. Why has Mrs Howells written this text?"
+    }
+]

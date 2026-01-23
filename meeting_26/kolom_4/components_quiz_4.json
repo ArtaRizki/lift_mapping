@@ -9,6 +9,7 @@
   {
     "type": "sound_normal",
     "content": "",
+    "audio": "./do_you_clean_the_table.mp3",
     "is_html_content": false,
     "order": 2,
     "meta": ""
@@ -16,6 +17,7 @@
   {
     "type": "sound_slow",
     "content": "",
+    "audio": "./do_you_clean_the_table.mp3",
     "is_html_content": false,
     "order": 3,
     "meta": ""
