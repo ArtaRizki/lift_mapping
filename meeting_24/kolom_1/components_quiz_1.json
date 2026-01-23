@@ -1,36 +1,38 @@
 [
   {
     "type": "instruction_primary",
-    "content": "Look at the picture and choose if it’s true or false",
+    "content": "Listen and repeat the word",
     "is_html_content": false,
     "order": 1,
     "meta": ""
   },
   {
-    "type": "image_content",
+    "type": "avatar",
     "content": "",
-    "image": "./gambar_soal_quiz_5.png",
+    "image": "./gambar_soal_quiz_1.png",
     "is_html_content": false,
     "order": 2,
     "meta": ""
   },
   {
-    "type": "text_statement",
-    "content": "My family and I eat lunch together",
+    "type": "sound_normal",
+    "content": "",
+    "audio": "./eat.mp3",
     "is_html_content": false,
     "order": 3,
     "meta": ""
   },
   {
-    "type": "instruction_secondary",
-    "content": "Choose the correct answer.",
+    "type": "sound_slow",
+    "content": "",
+    "audio": "./eat.mp3",
     "is_html_content": false,
     "order": 4,
     "meta": ""
   },
   {
-    "type": "answer_options",
-    "content": "True|||False",
+    "type": "instruction_secondary",
+    "content": "Choose the correct answer.",
     "is_html_content": false,
     "order": 5,
     "meta": ""
