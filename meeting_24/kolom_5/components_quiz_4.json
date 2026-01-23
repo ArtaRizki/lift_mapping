@@ -1,23 +1,30 @@
 [
   {
     "type": "instruction_primary",
-    "content": "Read and choose which one is correct",
+    "content": "Read and choose the correct answer to complete the sentence",
     "is_html_content": false,
     "order": 1,
+    "meta": ""
+  },
+  {
+    "type": "question_short_text",
+    "content": "Lisa and Rara __________ listen to music in the car",
+    "is_html_content": false,
+    "order": 2,
     "meta": ""
   },
   {
     "type": "instruction_secondary",
     "content": "Choose the correct answer.",
     "is_html_content": false,
-    "order": 2,
+    "order": 3,
     "meta": ""
   },
   {
     "type": "answer_options",
-    "content": "I watches tv every night|||I don’t watch tv every night",
+    "content": "don't|||doesn't",
     "is_html_content": false,
-    "order": 3,
+    "order": 4,
     "meta": ""
   }
 ]
