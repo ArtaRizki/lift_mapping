@@ -1,0 +1,52 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "For each questions choose the correct answer",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "hyperlink_image",
+        "content": "Click here to read the text",
+        "is_html_content": false,
+        "image": "./hyperlink_image.png",
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "A. trying new video games|||B. getting better at video games|||C. finding enough time to play video games",
+        "is_html_content": false,
+        "order": 3,
+        "meta": "14. What is the most important thing for Seo-yun Cho?"
+    },
+    {
+        "type": "answer_options",
+        "content": "A. live together|||B. went to school together|||C. have a business together",
+        "is_html_content": false,
+        "order": 4,
+        "meta": "15. Seo-yun and her friends"
+    },
+    {
+        "type": "answer_options",
+        "content": "A. It's when she feels happiest|||B. It's the time that she most enjoys playing|||C. It sometimes makes her tired",
+        "is_html_content": false,
+        "order": 5,
+        "meta": "16. What does Seo-yun say about playing games at night?"
+    },
+    {
+        "type": "answer_options",
+        "content": "A. Seo-yun and her friends play a lot of sports video games|||B. Seo-yun and her friends play sports to get fit|||C. Seo-yun and her friends are more famous than some sports players",
+        "is_html_content": false,
+        "order": 6,
+        "meta": "17. What does the writer say about sports?"
+    },
+    {
+        "type": "answer_options",
+        "content": "A. because they earn a lot of money|||B. because they don't need to look for another job|||C. because they are doing something that they love",
+        "is_html_content": false,
+        "order": 7,
+        "meta": "18. Why does the writer think that Seo-yun and her friends are lucky?"
+    }
+]

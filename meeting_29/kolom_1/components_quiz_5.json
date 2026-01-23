@@ -1,0 +1,31 @@
+[
+    {
+        "type": "instruction_primary",
+        "content": "For each question choose the correct answer",
+        "is_html_content": false,
+        "order": 1,
+        "meta": ""
+    },
+    {
+        "type": "image_single",
+        "content": "",
+        "is_html_content": false,
+        "image": "./gambar_soal_quiz_5.png",
+        "order": 2,
+        "meta": ""
+    },
+    {
+        "type": "instruction_secondary",
+        "content": "Choose the correct answer.",
+        "is_html_content": false,
+        "order": 3,
+        "meta": ""
+    },
+    {
+        "type": "answer_options",
+        "content": "A. We repair old laptops|||B. Old laptops are for sale for £100|||C. Save money when you buy a new laptop",
+        "is_html_content": false,
+        "order": 4,
+        "meta": ""
+    }
+]
